@@ -62,4 +62,4 @@ This project focuses on cleaning and processing social network data using Python
 
 **Pankaj Kumar**
 
-Aspiring Data Analyst passionate about Python, SQL, Excel, and data analysis.
+Data Analyst passionate about Python, SQL, Excel, and data analysis.
